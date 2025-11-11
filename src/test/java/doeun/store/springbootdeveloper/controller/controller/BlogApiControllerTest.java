@@ -1,4 +1,4 @@
-package doeun.store.springbootdeveloper.controller;
+package doeun.store.springbootdeveloper.controller.controller;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import doeun.store.springbootdeveloper.domain.Article;
